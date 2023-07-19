@@ -1,5 +1,5 @@
 # picat_regex
-regex module for Picat (http://picat-lang,org).
+regex module for Picat (http://picat-lang.org).
 
 This is an experimental module for handling regexes in Picat (requres Picat v3.3#3 or higher).
 
